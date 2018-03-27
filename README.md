@@ -16,23 +16,29 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: SQL Injection
+<bold>Vulnerability #1: SQL Injection</bold>
 <img src="https://github.com/SlushyGod/project8/blob/master/gif1_sql.gif" width="800">
-Vulnerability #2: Session Hijacking/Fixation
+
+
+<bold>Vulnerability #2: Session Hijacking/Fixation</bold>
 <img src="https://github.com/SlushyGod/project8/blob/master/gif2_session.gif" width="800">
 
 ## Green
 
-Vulnerability #1: Username Enumeration
+<bold>Vulnerability #1: Username Enumeration</bold>
 <img src="https://github.com/SlushyGod/project8/blob/master/gif3_user.gif" width="800">
-Vulnerability #2: Cross-Site Scripting
+
+
+<bold>Vulnerability #2: Cross-Site Scripting</bold>
 <img src="https://github.com/SlushyGod/project8/blob/master/gif4_xss.gif" width="800">
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference
+<bold>Vulnerability #1: Insecure Direct Object Reference</bold>
 <img src="https://github.com/SlushyGod/project8/blob/master/gif5_idor.gif" width="800">
-Vulnerability #2: Cross-Site Request Forgery
+
+
+<bold>Vulnerability #2: Cross-Site Request Forgery</bold>
 <img src="https://github.com/SlushyGod/project8/blob/master/gif6_csrf.gif" width="800">
 
 ## Notes
